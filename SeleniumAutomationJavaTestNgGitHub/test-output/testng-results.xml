@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50626" started-at="2021-06-04T14:45:08 CDT" finished-at="2021-06-04T14:45:59 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50626" started-at="2021-06-04T14:45:08 CDT" finished-at="2021-06-04T14:45:59 CDT">
+      <class name="tests.HomepageSignInLinkTests">
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:tests.HomepageSignInLinkTests@79be0360]" name="Initialize" is-config="true" duration-ms="9445" started-at="2021-06-04T14:45:08 CDT" finished-at="2021-06-04T14:45:18 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="SignInLinkClick()[pri:0, instance:tests.HomepageSignInLinkTests@79be0360]" name="SignInLinkClick" is-config="true" duration-ms="5103" started-at="2021-06-04T14:45:18 CDT" finished-at="2021-06-04T14:45:23 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInLinkClick -->
+        <test-method status="PASS" signature="CreateAnAccountTest()[pri:0, instance:tests.HomepageSignInLinkTests@79be0360]" name="CreateAnAccountTest" duration-ms="10876" started-at="2021-06-04T14:45:23 CDT" finished-at="2021-06-04T14:45:34 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAnAccountTest -->
+        <test-method status="PASS" signature="SignInLinkClick()[pri:0, instance:tests.HomepageSignInLinkTests@79be0360]" name="SignInLinkClick" is-config="true" duration-ms="3736" started-at="2021-06-04T14:45:34 CDT" finished-at="2021-06-04T14:45:37 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInLinkClick -->
+        <test-method status="PASS" signature="SignInPageYourPersonalInfoForm()[pri:1, instance:tests.HomepageSignInLinkTests@79be0360]" name="SignInPageYourPersonalInfoForm" duration-ms="6817" started-at="2021-06-04T14:45:37 CDT" finished-at="2021-06-04T14:45:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInPageYourPersonalInfoForm -->
+        <test-method status="PASS" signature="SignInLinkClick()[pri:0, instance:tests.HomepageSignInLinkTests@79be0360]" name="SignInLinkClick" is-config="true" duration-ms="4213" started-at="2021-06-04T14:45:44 CDT" finished-at="2021-06-04T14:45:49 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInLinkClick -->
+        <test-method status="PASS" signature="SignInPageYourAddressForm()[pri:2, instance:tests.HomepageSignInLinkTests@79be0360]" name="SignInPageYourAddressForm" duration-ms="9489" started-at="2021-06-04T14:45:49 CDT" finished-at="2021-06-04T14:45:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInPageYourAddressForm -->
+        <test-method status="PASS" signature="TestClean()[pri:0, instance:tests.HomepageSignInLinkTests@79be0360]" name="TestClean" is-config="true" duration-ms="877" started-at="2021-06-04T14:45:58 CDT" finished-at="2021-06-04T14:45:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestClean -->
+      </class> <!-- tests.HomepageSignInLinkTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
